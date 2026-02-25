@@ -8,3 +8,4 @@ Released Versions:
 Coming Soon:
 <br>
 - v1.1 beta (Very Nice improvements)
+<br>
