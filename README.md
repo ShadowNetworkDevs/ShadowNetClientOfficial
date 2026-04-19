@@ -11,4 +11,4 @@ Client Made By MrNorshare & the_real_steve3
 
 ## Coming Soon
 
-- v1.3 Beta (Social Features maybe?)
+- v1.3 Beta (AMAZING, RELEASING SOON)
