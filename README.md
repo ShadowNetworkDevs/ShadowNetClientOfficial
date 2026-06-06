@@ -9,7 +9,8 @@ Client Made By MrNorshare & the_real_steve3
 - v1.1 Beta (Very Nice improvements)
 - v1.2 Beta (ViaEntities and other stuff)
 - v1.3 Beta (ViaItems rewrite and a lot more)
+- v1.4 Beta (New toggles, ui improvements, tons of new updates, viafixes and improvements)
 
 ## Coming Soon
 
-- v1.4 Beta (Coming soon)
+- v1.5 Beta (Coming soon)
